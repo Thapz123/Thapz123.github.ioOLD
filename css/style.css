@@ -1,0 +1,42 @@
+body{
+
+	font-family: "Raleway" Arial sans-serif;
+
+	
+}
+#sidebar-wrapper{
+	background-color: rgb(3, 120, 111);
+	
+
+}
+#page-content-wrapper{
+
+	background: url(../img/bg-img3.jpg) no-repeat center;
+	background-size: cover;
+}
+.sidebar-nav li a{
+	color:#ccc;
+
+}
+.sidebar-brand a{
+	font-size:1.5em;
+}
+.jumbotron{
+	min-height: 600px;
+	color: rgb(240,240,240);
+	background-color: rgba(111,111,111,0.5);
+
+}
+.col-lg-12 #menu-toggle{
+	padding:5px 20px;
+	background-color: rgb(240,240,240);
+	border: none;
+	margin-top:10px;
+}
+.form-group label{
+	font-size: 16px;
+	font-weight: 400;
+}
+#form_intro{
+	font-size: 1.5em;
+}
